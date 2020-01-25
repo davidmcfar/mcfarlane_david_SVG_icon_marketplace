@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="bat" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 269 290" style="enable-background:new 0 0 269 290;" xml:space="preserve">
+<style type="text/css">
+	#bat:hover {cursor: pointer; }
+	#bat:hover {fill: #333;}
+</style>
+<path d="M133.7,252.5C104.2,163.9,60,173.7,60,173.7c14.7-49.2-29.5-68.9-29.5-68.9C37.9,65.4,1,45.7,1,45.7
+	C82.1,35.8,119,163.9,119,163.9s7.4-19.7,7.4-29.5l7.4,19.7"/>
+<path d="M134.3,252.9c29.5-88.6,73.7-78.8,73.7-78.8c-14.7-49.2,29.5-68.9,29.5-68.9C230.1,65.9,267,46.2,267,46.2
+	C185.9,36.3,149,164.3,149,164.3s-7.4-19.7-7.4-29.5l-7.4,19.7"/>
+<path d="M133.7,154"/>
+<rect x="133.7" y="154" width="7.4" height="49.2"/>
+<rect x="133.7" y="203.2" width="7.4" height="19.7"/>
+<polyline points="133.7,222.9 126.3,213.1 126.3,222.9 141.1,222.9 134.3,252.5 133.7,252.2 132.8,154.4 135.8,155.3 "/>
+<ellipse cx="134.1" cy="252.4" rx="0.4" ry="0.7"/>
+</svg>
